@@ -1,0 +1,5 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Merge files with extension foo in case of conflicts
+* .foo	merge=union
